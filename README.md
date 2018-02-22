@@ -3,7 +3,7 @@ adds ability to use more social-icons in shopware. these icons are using same fo
 
 ![icons](icons.JPG)
 
-##Classes:
+## Classes:
 - icon--instagram
 - icon--instagram2
 - icon--xing
