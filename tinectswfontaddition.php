@@ -2,14 +2,10 @@
 
 namespace tinectswfontaddition;
 
-use Doctrine\Common\Collections\ArrayCollection;
-use Doctrine\DBAL\Query\QueryBuilder;
 use Shopware\Components\Plugin;
 use Shopware\Components\Plugin\Context\ActivateContext;
 use Shopware\Components\Plugin\Context\InstallContext;
-use Shopware\Components\Console\Application;
 use Shopware\Components\Theme\LessDefinition;
-use Shopware_Controllers_Frontend_Finishing;
 
 class tinectswfontaddition extends Plugin
 {
