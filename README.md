@@ -1,6 +1,9 @@
-# tinectswaddition
+# tinectswfontaddition
 adds ability to use more social-icons in shopware. these icons are using same font as it shopware does:
 
+![icons](icons.JPG)
+
+##Classes:
 - icon--tinect-instagram
 - icon--tinect-instagram2
 - icon--tinect-xing
