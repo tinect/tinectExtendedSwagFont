@@ -1,0 +1,87 @@
+@icon--instagram: "\e903";
+@icon--instagram2: "\e902";
+@icon--xing: "\e901";
+@icon--xing2: "\e900";
+@icon--youtube: "\e905";
+@icon--youtube2: "\e904";
+
+@font-face {
+  font-family: 'tinectswaddition';
+  src:url('https://dev.reflects.shop/custom/tinectswfontaddition/Resources/views/frontend/_public/src/fonts/tinectswaddition.ttf?1') format('truetype'),
+          url('https://dev.reflects.shop/custom/tinectswfontaddition/Resources/views/frontend/_public/src/fonts/tinectswaddition.woff?1') format('woff'),
+          url('https://dev.reflects.shop/custom/tinectswfontaddition/Resources/views/frontend/_public/src/fonts/tinectswaddition.svg?1#tinectswaddition') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+[class^="icon--tinect"], [class*="icon--tinect"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'tinectswaddition' !important;
+  speak: none;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon--tinect-instagram:before {
+  content: "\e903";
+}
+.icon--tinect-instagram2:before {
+  content: "\e902";
+}
+.icon--tinect-xing:before {
+  content: "\e901";
+}
+.icon--tinect-xing2:before {
+  content: "\e900";
+}
+.icon--tinect-youtube:before {
+  content: "\e905";
+}
+.icon--tinect-youtube2:before {
+  content: "\e904";
+}
+
+
+
+
+
+
+
+
+.icon--instagram {
+  &:before {
+    content: @icon--instagram;
+  }
+}
+.icon--instagram2 {
+  &:before {
+    content: @icon--instagram2;
+  }
+}
+.icon--xing {
+  &:before {
+    content: @icon--xing;
+  }
+}
+.icon--xing2 {
+  &:before {
+    content: @icon--xing2;
+  }
+}
+.icon--youtube {
+  &:before {
+    content: @icon--youtube;
+  }
+}
+.icon--youtube2 {
+  &:before {
+    content: @icon--youtube2;
+  }
+}

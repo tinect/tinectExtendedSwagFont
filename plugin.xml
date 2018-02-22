@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<plugin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xsi:noNamespaceSchemaLocation="../../../engine/Shopware/Components/Plugin/schema/plugin.xsd">
+
+    <label lang="de">tinectswfontaddition</label>
+    <label lang="en">tinectswfontaddition</label>
+
+    <version>1.0.1</version>
+    <copyright>(c) by tinect</copyright>
+    <license>MIT</license>
+    <link></link>
+    <author>tinect</author>
+    <compatibility minVersion="5.2.7"/>
+
+    <description><![CDATA[
+          
+        ]]>
+    </description>
+
+
+    <changelog version="1.0.0">
+        <changes lang="de">Erstveröffentlichung</changes>
+        <changes lang="en">First release</changes>
+    </changelog>
+
+</plugin>
