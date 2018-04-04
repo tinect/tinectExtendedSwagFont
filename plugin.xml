@@ -5,7 +5,7 @@
     <label lang="de">tinectExtendedSwagFont</label>
     <label lang="en">tinectExtendedSwagFont</label>
 
-    <version>1.0.1</version>
+    <version>1.0.2</version>
     <copyright>(c) by tinect</copyright>
     <license>MIT</license>
     <link></link>
@@ -21,6 +21,12 @@
     <changelog version="1.0.0">
         <changes lang="de">Erstveröffentlichung</changes>
         <changes lang="en">First release</changes>
+    </changelog>
+
+
+    <changelog version="1.0.0">
+        <changes lang="de">Verbesserungen</changes>
+        <changes lang="en">Improvements</changes>
     </changelog>
 
 </plugin>
