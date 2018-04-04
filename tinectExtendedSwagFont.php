@@ -1,13 +1,13 @@
 <?php
 
-namespace tinectswfontaddition;
+namespace tinectExtendedSwagFont;
 
 use Shopware\Components\Plugin;
 use Shopware\Components\Plugin\Context\ActivateContext;
 use Shopware\Components\Plugin\Context\InstallContext;
 use Shopware\Components\Theme\LessDefinition;
 
-class tinectswfontaddition extends Plugin
+class tinectExtendedSwagFont extends Plugin
 {
 
 

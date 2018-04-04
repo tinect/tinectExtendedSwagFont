@@ -1,9 +1,9 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <plugin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
         xsi:noNamespaceSchemaLocation="../../../engine/Shopware/Components/Plugin/schema/plugin.xsd">
 
-    <label lang="de">tinectswfontaddition</label>
-    <label lang="en">tinectswfontaddition</label>
+    <label lang="de">tinectExtendedSwagFont</label>
+    <label lang="en">tinectExtendedSwagFont</label>
 
     <version>1.0.1</version>
     <copyright>(c) by tinect</copyright>
